@@ -1,2 +1,2 @@
 # totalstop-v1
-The total stop website version 1
+Total stop website version 1, download the zip file, extract and use the codes
